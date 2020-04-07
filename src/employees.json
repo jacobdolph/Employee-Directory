@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Frank Walker",
+    "role": "CEO",
+    "department": "Executive",
+    "location": "Salt Lake City"
+  },
+  {
+    "id": 2,
+    "name": "Courtney Vance",
+    "role": "Accountant",
+    "department": "Finance",
+    "location": "Salt Lake City"
+  },
+  {
+    "id": 3,
+    "name": "Anish Kapoor",
+    "role": "IT Technician",
+    "department": "IT",
+    "location": "Salt Lake City"
+  },
+  {
+    "id": 4,
+    "name": "Coleen Nolan",
+    "role": "Human Resouces Manager",
+    "department": "HR",
+    "location": "Salt Lake City"
+  },
+  {
+    "id": 5,
+    "name": "Kenta Kobayashi",
+    "role": "Administrative Assistant",
+    "department": "Executive",
+    "location": "Salt Lake City"
+  },
+  {
+    "id": 6,
+    "name": "Wally Schirra",
+    "role": "Marketing Director",
+    "department": "Marketing",
+    "location": "Salt Lake City"
+  },
+  {
+    "id": 7,
+    "name": "Rhonda Byrne",
+    "role": "Senior Software Engineer",
+    "department": "IT",
+    "location": "Salt Lake City"
+  },
+  {
+    "id": 8,
+    "name": "Jason Lively",
+    "role": "Marketing Specialist",
+    "department": "Marketing",
+    "location": "Salt Lake City"
+  },
+  {
+    "id": 9,
+    "name": "Titus Welliver",
+    "role": "Web Developer",
+    "department": "IT",
+    "location": "Salt Lake City"
+  },
+  {
+    "id": 10,
+    "name": "Jaimie Alexander",
+    "role": "Senior Sales Representative",
+    "department": "Sales",
+    "location": "Salt Lake City"
+  },
+  {
+    "id": 11,
+    "name": "Jason Beghe",
+    "role": "Sales Representative",
+    "department": "Sales",
+    "location": "Salt Lake City"
+  },
+  {
+    "id": 12,
+    "name": "Tammy Duckworth",
+    "role": "Office Coordinator",
+    "department": "HR",
+    "location": "Salt Lake City"
+  }
+]
