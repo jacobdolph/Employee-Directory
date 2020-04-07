@@ -9,8 +9,7 @@ function FilterBar(props) {
     return (
 
         <form className="search col-md-12">
-            <div className="form-group col-md-6 offset-md-3">
-                <label htmlFor="department">Filter By Department:</label>
+            <div className="form-group col-md-8 offset-md-2">
                 <input
                     value={props.search}
                     onChange={props.handleInputChange}
@@ -18,7 +17,7 @@ function FilterBar(props) {
                     list="departments"
                     type="text"
                     className="form-control"
-                    placeholder="Type in a department to begin"
+                    placeholder="Filter by Department"
                     id="department"
                 />
                 <datalist id='departments'>
