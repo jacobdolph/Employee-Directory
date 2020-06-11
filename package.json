@@ -33,5 +33,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   }
 }
+=======
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
+>>>>>>> parent of 1ac8f26... Updates
